@@ -4,9 +4,9 @@ Alright so if you're reading this you probably already know what its for, if not
 This was made specifically for u/Mautamu's RustRisk, takes the SVG you made and makes the sql queries for you instead of doing a bunch of excel sheet work :)
 
 How to do it? Simple
--Clone this and open up the folder
--Copy the map you made into the folder
--Rename the map to map.svg
+-Clone this and open up the folder \n
+-Copy the map you made into the folder \n 
+-Rename the map to map.svg \n
 -in the console either do "node ." or "node index.js" to start up the generator
 -It's gonna ask you the neighbors of each territory, type them in (case insensitive, no spaces between names)
 -Each time you finish a territory's neighbors it will validate and then display the names of the neighbors and ask you to confirm
